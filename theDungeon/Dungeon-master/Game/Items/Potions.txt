@@ -1,0 +1,3 @@
+﻿Potion of Speed|This potion allows you to skip the current room
+Potion of Foresight|This potion lowers the maximum number of rooms in the dungeon
+Potion of Teleportation|This potion teleports you back to start
